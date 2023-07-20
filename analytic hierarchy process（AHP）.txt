@@ -1,4 +1,0 @@
-analytic hierarchy process（AHP）
-层次分析法详解视频：https://www.bilibili.com/video/BV1hK411G76S/?share_source=copy_web&vd_source=f3caea1ae83dab9f8b70fd79f44baf45
-这个方法本质上就是为我们作决策提供指导性意见，举一个例子来说，有南京、长春、厦门、贵阳四个开会，要挑选一个地点去开会，去哪一个地点开会，需要考虑路费，食宿费，参会费，时间等因素，每一个都需要考虑这些因素，那么我们就可以根据专家打分来写出判断矩阵，若矩阵通过一致性检验（<0.1）则有效，最后会得出要去那个地方开会。
-代码，在spsspro可以直接使用这个方法。
