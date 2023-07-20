@@ -1,0 +1,6 @@
+entropy weight method（熵权法）
+讲解视频如下： https://www.bilibili.com/video/BV1aM411q7pR/?share_source=copy_web&vd_source=f3caea1ae83dab9f8b70fd79f44baf45
+这个方法本质上就是计算每一项指标的熵，再利用熵计算每一项指标的信息冗余度，最后得出每一项的权重。
+代码同在spsspro软件中可直接使用。
+优点：可以反应指标的区分能力，确定较好的权重
+缺点：无法考虑到指标与指标之间的横向影响；对样本依赖性大，建模样本发生变化，权重也会随之发生变化。
