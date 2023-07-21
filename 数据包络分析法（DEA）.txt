@@ -1,0 +1,6 @@
+数据包络分析法（DEA）
+方法讲解视频：https://www.bilibili.com/video/BV14h4y1n7PH/?share_source=copy_web&vd_source=f3caea1ae83dab9f8b70fd79f44baf45
+此方法可以处理多输入多输出的问题，尤其是在处理效率问题上具有优势。
+代码实现可通过spsspro软件直接实现
+优点：可处理多输入与多输出的问题；普适性和客观性较强；
+缺点；对异常值及其敏感；在分析时，数据必须具有同类可比性；只可分析相对效率，无法分析绝对效率；

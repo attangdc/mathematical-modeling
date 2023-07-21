@@ -1,0 +1,6 @@
+RSR method（秩和比法）
+方法详解：https://www.bilibili.com/video/BV1Kh4y1n7x3/?share_source=copy_web&vd_source=f3caea1ae83dab9f8b70fd79f44baf45
+此方法本质为，计算每一个对象的每一个指标对应的秩，依据此秩得出RSR值，最后依据RSR值对评价对象的优劣进行分档排序。
+代码可直接在SPSSPRO软件中实现；
+优点：对指标的选择无特殊要求，适用性广，可消除异常值的干扰；
+缺点：有可能会使得丢失原始数据的顺位间的差距程度的这类信息；若RSR值不满足正太分布时，结果可能会有偏差；
